@@ -4,7 +4,7 @@ using System.Timers;
 
 namespace Game_2
 {
-    class Program
+    class Snake
     {
         static void Main(string[] args)
         {
