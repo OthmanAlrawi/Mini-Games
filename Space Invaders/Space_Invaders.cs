@@ -4,7 +4,7 @@ using System.Media;
 
 namespace Game_1
 {
-    class Program
+    class Space_Invaders
     {
         static void Main(string[] args)
         {
